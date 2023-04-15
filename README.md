@@ -1,1 +1,1 @@
-primer ejercicio
+clonar el repositorio y colocarlo en otra carpeta
